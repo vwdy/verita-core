@@ -1,0 +1,9 @@
+<acl>
+    <page-veritawall-connection-agent>
+        <name>VeritaWall Connection Agent</name>
+        <patterns>
+            <pattern>ui/dfconag/*</pattern>
+            <pattern>api/dfconag/*</pattern>
+        </patterns>
+    </page-veritawall-connection-agent>
+</acl>
